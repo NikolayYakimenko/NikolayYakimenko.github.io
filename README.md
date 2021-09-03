@@ -1,2 +1,2 @@
-# NikolayYakimenko.github.io
+# Николай Якименко
 Мой первый сайт
